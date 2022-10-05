@@ -126,7 +126,7 @@ fieldset legend {
     border: 1px solid #E6E6F0;
     border-radius: 8px;
     height: 56px;
-    //padding: 0 24px;
+    padding: 0 24px;
 }
 
 .col-name, .col-date {
